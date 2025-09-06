@@ -47,8 +47,8 @@ Export or recover files if required for the investigation.
 
 ## OUTPUT:
 
-#### Name - Kantha Sishanth S
-#### Reg. No. - 212222100020
+#### Name - Sakthivel R
+#### Reg. No. - 212222100044
 
 ### CREATING A DISK PARTITION:
 
